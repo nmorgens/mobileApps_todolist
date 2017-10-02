@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/AndroidStudioProjects/TodolistApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ed4bd18610103cba66109dbe7fa5e6d7f7cf4c3">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/TodolistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_260b153ddc4007b3b10eb78c98cf118676c338f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanmorgenstern/AndroidStudioProjects/TodolistApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/nathanmorgenstern/AndroidStudioProjects/TodolistApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9eca90c3db510d36618f87c6b5c07b8a6e303050/classes.dex" />
+    </item>
+
+</items>
